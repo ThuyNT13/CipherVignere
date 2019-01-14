@@ -33,3 +33,7 @@ initially created on [repl.it](https://repl.it/@ThuyNT13/CipherVignerecpp)
 
 Utilizing [**ASCII table's**](http://www.asciitable.com/) mapping of *character* to *decimal code* to convert alphabet to integer, and vice versa.
 
+
+## [Issues](https://github.com/ThuyNT13/CipherVignere/issues)
+
+Present issues with code [here](https://github.com/ThuyNT13/CipherVignere/issues).
